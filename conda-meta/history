@@ -1,0 +1,43 @@
+==> 2024-05-30 12:40:42 <==
+# cmd: C:\Users\HP\anaconda3\Scripts\conda-script.py create --name chatbot_env python=3.8
+# conda version: 23.7.4
++defaults/win-64::ca-certificates-2024.3.11-haa95532_0
++defaults/win-64::libffi-3.4.4-hd77b12b_1
++defaults/win-64::openssl-3.0.13-h2bbff1b_2
++defaults/win-64::pip-24.0-py38haa95532_0
++defaults/win-64::python-3.8.19-h1aa4202_0
++defaults/win-64::setuptools-69.5.1-py38haa95532_0
++defaults/win-64::sqlite-3.45.3-h2bbff1b_0
++defaults/win-64::vc-14.2-h2eaa2aa_1
++defaults/win-64::vs2015_runtime-14.29.30133-h43f2093_3
++defaults/win-64::wheel-0.43.0-py38haa95532_0
+# update specs: ['python=3.8']
+==> 2024-05-30 12:45:36 <==
+# cmd: C:\Users\HP\anaconda3\Scripts\conda-script.py install -c anaconda scikit-learn
+# conda version: 23.7.4
+-defaults/win-64::ca-certificates-2024.3.11-haa95532_0
++anaconda/noarch::threadpoolctl-2.2.0-pyh0d69192_0
++anaconda/win-64::blas-1.0-mkl
++anaconda/win-64::ca-certificates-2023.08.22-haa95532_0
++anaconda/win-64::icc_rt-2022.1.0-h6049295_2
++anaconda/win-64::intel-openmp-2023.1.0-h59b6b97_46320
++anaconda/win-64::joblib-1.2.0-py38haa95532_0
++anaconda/win-64::mkl-2023.1.0-h6b88ed4_46358
++anaconda/win-64::mkl-service-2.4.0-py38h2bbff1b_1
++anaconda/win-64::mkl_fft-1.3.8-py38h2bbff1b_0
++anaconda/win-64::mkl_random-1.2.4-py38h59b6b97_0
++anaconda/win-64::numpy-1.24.3-py38h79a8e48_1
++anaconda/win-64::numpy-base-1.24.3-py38h8a87ada_1
++anaconda/win-64::scikit-learn-1.3.0-py38h4ed8f06_0
++anaconda/win-64::scipy-1.9.3-py38hdcfc7df_2
++anaconda/win-64::tbb-2021.8.0-h59b6b97_0
+# update specs: ['scikit-learn']
+==> 2024-05-30 12:46:33 <==
+# cmd: C:\Users\HP\anaconda3\Scripts\conda-script.py install -c anaconda nltk
+# conda version: 23.7.4
++anaconda/win-64::click-8.1.7-py38haa95532_0
++anaconda/win-64::colorama-0.4.6-py38haa95532_0
++anaconda/win-64::nltk-3.8.1-py38haa95532_0
++anaconda/win-64::regex-2023.10.3-py38h2bbff1b_0
++anaconda/win-64::tqdm-4.65.0-py38hd4e2768_0
+# update specs: ['nltk']
